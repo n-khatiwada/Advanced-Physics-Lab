@@ -1,0 +1,10 @@
+MIN=0	-3	0	
+MAX=5	3	5	
+SCALE=1	1	1	
+DEC=1	3	3	
+DEF="Time" t / s	"Voltage" U_B1 / V	"Frequency" f / Hz	
+0	0.3885	NAN	
+0	0.3885	NAN	
+0	0.3885	NAN	
+0	0.3885	NAN	
+0	0.3885	NAN	
